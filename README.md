@@ -9,8 +9,8 @@ This is completely a work in progress and is mostly for reference at this point 
 
 
 # Requirements
-Admin access to an Active Directory Domain
-Windows 10
-Microsoft Office (Word, Outlook)
+* Admin access to an Active Directory Domain
+* Windows 10
+* Microsoft Office (Word, Outlook)
 
 This Repo uses GitFlow from GitKraken.
