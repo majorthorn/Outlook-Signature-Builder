@@ -4,6 +4,8 @@ This script was originally started as an attempt to port a VBScript that has mad
 
 This script is most reference at this point due to the requirements of the script. Being that it requires Admin access to Active Directory, Windows 10, and an licensed version of Microsoft office specifically Word and Outlook. Also, I use Linux in my personal life making Powershell Scripting not as easy.
 
+To see the the code please look at the Develop Branch.
+
 
 ### Requirements
 * Admin access to an Active Directory Domain
